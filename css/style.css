@@ -205,7 +205,7 @@ button:focus {
       .header_area .navbar .nav .nav-item .nav-link {
         font: 500 12px/100px "Roboto", sans-serif;
         text-transform: capitalize;
-        color: #e5e5e5;
+        color: #000;
         padding: 0px;
         display: inline-block;
         font-size: 16px; }
@@ -284,7 +284,7 @@ button:focus {
     top: -70px;
     left: 0;
     right: 0;
-    background: #14213D;
+    background: #e5e5e5;
     transform: translateY(70px);
     transition: transform 500ms ease, background 500ms ease;
     -webkit-transition: transform 500ms ease, background 500ms ease;
@@ -1278,7 +1278,7 @@ button:focus {
     top: 0;
     font-size: 20px;
     line-height: 24px;
-    color: #e45447;
+    color: #fca311;
     font-weight: 600;
     padding-top: 1rem; }
   .contact_info .info_item h6 {
