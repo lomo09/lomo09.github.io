@@ -145,7 +145,7 @@ button:focus {
         .main-title h1:after {
           display: none; } }
   .main-title p {
-    font-size: 24px;
+    font-size: 20px;
     font-family: "Roboto", sans-serif;
     line-height: 38px;
     color: #fca311;
@@ -336,7 +336,6 @@ button:focus {
   @media (max-width: 680px) {
     .banner-content {
       padding: 48px 20px;
-      background: #e5e5e5;
       margin: 0 15px; } }
   .banner-content .primary-btn {
     background: #e45447;
